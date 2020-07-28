@@ -1,0 +1,4 @@
+#Tue Jul 28 13:56:09 KST 2020
+base.0=/Users/hoon/Desktop/PlayFlutter/bloc_cubit_simple/bloc_cubit/build/app/intermediates/dex/debug/mergeDexDebug/out/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
